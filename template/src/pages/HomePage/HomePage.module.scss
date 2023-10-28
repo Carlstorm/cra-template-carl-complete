@@ -1,0 +1,19 @@
+@import '../../styles/mixins';
+
+.component {
+    height: 100%;
+    width: 100%;
+
+    @include breakpoint(">desktop") {
+        background: white;
+    }
+    @include breakpoint("<desktop") {
+        background: green;
+    }
+    @include breakpoint("<tablet") {
+        background: blue;
+    }
+    @include breakpoint("<phone") {
+        background: red;
+    }
+}

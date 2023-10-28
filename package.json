@@ -1,0 +1,53 @@
+{
+  "name": "cra-template-carl-complete",
+  "version": "1.0.0",
+  "description": "CRA template with: typescript, sass, react-router, redux and much more already configured.",
+  "license": "MIT",
+  "main": "template.json",
+  "author": "carl storm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Carlstorm/cra-template-carl-complete"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "redux",
+    "reduxjs",
+    "react-redux",
+    "sass",
+    "react-router",
+    "react-router-dom",
+    "zero-configuration"
+  ],
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
