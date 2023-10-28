@@ -1,5 +1,5 @@
 # cra-template-carl-complete
-
+(STOLEN FROM cra-template-complete-web-app by Cristiano Raimondi @chrisuser)
 CRA template with: typescript, sass, react-router, redux and much more already configured.
 
 ## ⚗️ Technologies list

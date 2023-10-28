@@ -1,4 +1,4 @@
-<h1 align="center">New React App</h1>
+<h1 align="center">New React App (TOTALLY STOLEN FROM cra-template-complete-web-app by Cristiano Raimondi @chrisuser)</h1>
 
 <br />
 
@@ -94,6 +94,24 @@ yarn format
 ```
 
 Checks if your files are formatted. This command will output a human-friendly message and a list of unformatted files, if any.
+
+<br />
+
+<br />
+
+## 🎯 prettier
+
+```
+npm prettier
+```
+
+or
+
+```
+yarn prettier
+```
+
+does the pretty.
 
 <br />
 
